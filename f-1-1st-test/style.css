@@ -1,0 +1,50 @@
+.first{
+    width: 90%;
+    border: 1px solid black;
+    position: relative;
+    left: 50px;
+    font-size: 36px;
+}
+.heading{
+    text-decoration: underline;
+    position: relative;
+    left: 30px;
+}
+.para{
+    position: relative;
+    left: 30px;
+}
+.second-heading{
+    font-size: 50px;
+    font-weight: 900;
+    position: relative;
+    left: 60px;
+    text-decoration: underline;
+}
+.image{
+    width: 40%;
+    position: relative;
+    left: 60px;
+}
+.more-img{
+    position: relative;
+    top: 45px;
+    font-weight: 100;
+    right: 570px;
+    font-size: 30px;
+}
+.heading-three{
+    font-size: 40px;
+    position: relative;
+    top: 20px;
+    left: 60px;
+    text-decoration: underline;
+}
+ol{
+    font-size: 20px;
+    position: relative;
+    left: 60px;
+}
+ol li{
+    padding: 5px;
+}
